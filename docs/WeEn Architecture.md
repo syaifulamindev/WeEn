@@ -1,6 +1,6 @@
 # Introduction and Goals
 
-Welcome to **WeEn**, an open-source initiative aimed at creating a comprehensive learning material and note-taking application. In today's fast-paced world, the importance of effective learning and information management cannot be overstated. With **WeEn**, we aim to provide a versatile and user-friendly solution, built on the solid foundation of the arc42 architectural documentation framework.
+Welcome to **WeEn**, an open-source initiative aimed at creating a comprehensive learning material and note-taking application. With **WeEn**, we aim to provide a versatile and user-friendly solution, built on the solid foundation of the arc42 architectural documentation framework.
 
 Our primary goal is to foster a vibrant and collaborative learning environment where the community can actively participate, share knowledge, and contribute to the development of this project. By making the architectural documentation central to our approach, we ensure that every aspect of the application is well-defined, making it easier for both developers and users to understand the design and decision-making process.
 
